@@ -1,0 +1,237 @@
+@import url("https://fonts.googleapis.com/css?family:system-ui:200,300,400,500,600,700,800,900&display=swap");
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing:border-box;
+    font-family:"system-ui",sans-serif;
+}
+body {
+    background: #fff;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+.container {
+    position: relative;
+    width: 100%;
+    max-width: 1000px; ;
+    min-height: 1000px;
+    background: #fff ;
+    margin: 50px;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    box-shadow: 0 35px 55px rgba(0,0,0,0.1);
+}
+.container .left_side {
+    position: relative;
+    background: #a69feb;
+    padding: 40px;
+} 
+.profiletext {
+    position: relative;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding-bottom: 20px;
+    border-bottom: 1px solid rgba(255,255,255,0.2);
+
+}
+
+.profiletext .imagee {
+    position: relative;
+    width: 200px;
+    height: 200px;
+    border-radius: 50%;
+    overflow: hidden;
+}
+
+.profiletext .imagee img {
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+}
+
+.profiletext h2 {
+    color:#fff;
+    font-size: 1.5em;
+    margin-top: 20px;
+    text-transform: uppercase;
+    text-align: center;
+    font-weight: 600;
+    line-height: 1.4em;
+}
+
+.profiletext h2 span {
+    font-size: 0.8em;
+    font-weight: 300;
+}
+
+
+a {
+    text-decoration: none;
+}
+a:visited {
+    text-decoration: none;
+}
+
+.cinfo {
+    padding-top: 40px;
+}
+.title {
+    color: #fff;
+    text-transform: uppercase;
+    font-weight: 600;
+    letter-spacing: 1px;
+    margin-bottom: 20px;
+}
+
+.cinfo ul {
+    position: relative;
+}
+
+.cinfo ul li {
+    position: relative;
+    margin: 10px 0;
+    cursor: pointer;
+    list-style: none;
+
+}
+
+.cinfo ul li .icon {
+    display: inline-block;
+    width: 30px;
+    font-size: 18px;
+    color: darkcyan;
+}
+.cinfo ul li span {
+    color: #0e31e38f;
+    font-weight: 300;
+}
+.cinfo .education li {
+    margin-bottom: 15px;
+
+}
+.cinfo .education h5 {
+    font-weight: 500;
+}
+.cinfo .education h4 {
+    font-weight: 300;
+}
+.cinfo .education h3 {
+    font-weight: 300;
+}
+
+.cinfo .language .percent {
+    position: relative;
+    width: 100%;
+    height: 6px;
+    display: block;
+    margin-top: 5px;
+    background: #081921;
+
+}
+.cinfo .language .percent div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    height: 100%;
+    background: rgb(8, 14, 181);
+}
+
+.container .right_side {
+    position: relative;
+    background: #2fc8e0a9;
+    padding: 40px;
+}
+
+.about {
+    margin-bottom: 50px;
+}
+
+.about:last-child {
+    margin-bottom: 0;
+}
+
+.title2 {
+    color: rgba(176, 23, 23, 0.642);
+    letter-spacing: 1px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+
+p {
+    color: #333;
+}
+.about .box {
+    display:flex;
+    flex-direction: row;
+    margin: 20px 0;
+
+}
+.about .box .year_company {
+    min-width: 150px;
+}
+.about .box .year_company h5 {
+    text-transform: uppercase;
+    color: #333;
+    font-weight: 600;
+}
+.about .box .text h4 {
+    text-transform: uppercase;
+    color: #333;
+    font-size: 16px;
+
+}
+.skills .box {
+    position: relative;
+    width: 100px;
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    justify-content: center;
+    align-items: center;
+}
+.skills .box h4 {
+    text-transform: uppercase;
+    color: black;
+    font-weight: 500;
+    margin-left: 30px;
+}
+.extrac .box {
+    position: relative;
+    min-width: 200px;
+    display: grid;
+    grid-template-columns: 150px 1fr;
+    justify-content: center;
+    align-items: center;
+}
+.extrac .box p {
+    text-transform: uppercase;
+    color: black;
+    font-weight: 500;
+    margin-left: 30px;
+    margin: 20px;
+}
+
+
+
+@media (max-width: 1000px)
+{
+    .container {
+        margin: 10px;
+        grid-template-columns: repeat(1,1fr);
+    }
+    
+}
+@media(max-width: 600px) {
+    .about.box {
+        flex-direction: column;
+    }
+    .about .box .year_company {
+        
+        margin-bottom: 5px;
+    }
+}
