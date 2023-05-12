@@ -11,7 +11,7 @@ Github easy access ,
 Enhanced connectivity , 
 Responsive webpage 
 
-Sample Output:
+Preview:
 
 <img width="665" alt="Project output" src="https://github.com/codetyri0n/ADP-PROJECT/assets/111196722/10330a1e-7fd5-4330-8613-7aef09258ec9">
 
