@@ -13,7 +13,7 @@ Responsive webpage
 
 Preview
 
-<img width="500" alt="Screenshot 2023-05-12 at 19 06 32" src="https://github.com/codetyri0n/ADP-PROJECT/assets/111196722/8930df28-e55d-4dc8-98e5-626c655d9bbf">
+<img width="500" alt="Screenshot 2023-05-12 at 19 06 32" src="https://github.com/codetyri0n/ADP-PROJECT/assets/111196722/8930df28-e55d-4dc8-98e5-626c655d9bbf"><br>
 <img width="500" alt="Screenshot 2023-05-12 at 19 34 40" src="https://github.com/codetyri0n/ADP-PROJECT/assets/111196722/a789b0e3-ee76-4d24-841b-4a0e0d423d84">
 
 <img width="500" alt="Screenshot 2023-05-12 at 19 07 14" src="https://github.com/codetyri0n/ADP-PROJECT/assets/111196722/0f73959d-f546-40e4-99b7-78072583f2fc">
