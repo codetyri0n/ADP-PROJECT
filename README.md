@@ -14,7 +14,8 @@ Responsive webpage
 Preview
 
 <img width="500" alt="Screenshot 2023-05-12 at 19 06 32" src="https://github.com/codetyri0n/ADP-PROJECT/assets/111196722/8930df28-e55d-4dc8-98e5-626c655d9bbf">
-<img width="500" alt="Screenshot 2023-05-12 at 19 07 04" src="https://github.com/codetyri0n/ADP-PROJECT/assets/111196722/2c96ed38-2f7c-4b4b-a3f4-907ed553f95b">
+<img width="500" alt="Screenshot 2023-05-12 at 19 34 40" src="https://github.com/codetyri0n/ADP-PROJECT/assets/111196722/a789b0e3-ee76-4d24-841b-4a0e0d423d84">
+
 <img width="500" alt="Screenshot 2023-05-12 at 19 07 14" src="https://github.com/codetyri0n/ADP-PROJECT/assets/111196722/0f73959d-f546-40e4-99b7-78072583f2fc">
 <img width="649" alt="Screenshot 2023-05-12 at 19 07 32" src="https://github.com/codetyri0n/ADP-PROJECT/assets/111196722/50f894ee-7ad3-49e2-bce3-3fa88ba32716">
 <img width="662" alt="Screenshot 2023-05-12 at 19 07 58" src="https://github.com/codetyri0n/ADP-PROJECT/assets/111196722/433e0bcc-fa1e-4ad0-9634-05b5abee4c62">
@@ -26,5 +27,5 @@ Preview
 
 
 
-<img width="665" alt="Project output" src="https://github.com/codetyri0n/ADP-PROJECT/assets/111196722/10330a1e-7fd5-4330-8613-7aef09258ec9">
+<img width="625" alt="Screenshot 2023-05-12 at 19 33 16" src="https://github.com/codetyri0n/ADP-PROJECT/assets/111196722/a6df86fd-182b-4201-8d73-004623c6585e">
 
