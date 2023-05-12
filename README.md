@@ -9,7 +9,7 @@ Print option ,
 Linkedin easy access , 
 Github easy access , 
 Enhanced connectivity , 
-Responsive webpage , 
+Responsive webpage 
 
 Sample Output:
 
