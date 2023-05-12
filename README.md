@@ -4,7 +4,7 @@ on a resume.The webpage is divided into two sections where details are spread ov
 capabilities and credentials.The webpage is responsive and a print option is added to print out the resume as per one's wish.
 
 
-Features:
+Features :
 Print option
 Linkedin easy access
 Github easy access
