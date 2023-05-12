@@ -5,11 +5,11 @@ capabilities and credentials.The webpage is responsive and a print option is add
 
 
 Features :
-Print option
-Linkedin easy access
-Github easy access
-Enhanced connectivity
-Responsive webpage
+Print option , 
+Linkedin easy access , 
+Github easy access , 
+Enhanced connectivity , 
+Responsive webpage , 
 
 Sample Output:
 
